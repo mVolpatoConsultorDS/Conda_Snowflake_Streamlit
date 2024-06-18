@@ -1,0 +1,73 @@
+altair==5.3.0
+annotated-types==0.7.0
+asn1crypto @ file:///Users/cbousseau/work/recipes/ci_py311/asn1crypto_1677935208304/work
+atpublic==4.1.0
+attrs==23.2.0
+blinker==1.8.2
+Brotli @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_27zk0eqdh0/croot/brotli-split_1714483157007/work
+cachetools==5.3.3
+certifi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_3bzbkiv4h_/croot/certifi_1707229182618/work/certifi
+cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_7a9c7wyorr/croot/cffi_1714483157752/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+cloudpickle @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_da31odypvn/croot/cloudpickle_1683040013858/work
+cryptography @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_31zgxm62w8/croot/cryptography_1714660690857/work
+filelock @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d3quwmvouf/croot/filelock_1700591194006/work
+gitdb==4.0.11
+GitPython==3.1.43
+idna @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a12xpo84t2/croot/idna_1714398852854/work
+importlib_metadata==7.1.0
+jaraco.classes==3.4.0
+Jinja2==3.1.4
+jsonschema==4.22.0
+jsonschema-specifications==2023.12.1
+keyring==24.3.1
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+mdurl==0.1.2
+more-itertools==10.3.0
+numpy==1.26.4
+packaging @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a6lqg7at4g/croot/packaging_1710807410750/work
+pandas==2.2.2
+pillow==10.3.0
+platformdirs @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a8u4fy8k9o/croot/platformdirs_1692205661656/work
+plotly==5.22.0
+pluggy==1.5.0
+protobuf==4.25.3
+pyarrow==16.1.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==2.7.1
+pydantic_core==2.18.2
+pydeck==0.9.1
+Pygments==2.18.0
+PyJWT @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e55dbbf3h7/croot/pyjwt_1715094746385/work
+pyOpenSSL @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_94bn0tgaw5/croot/pyopenssl_1708381744097/work
+PySocks @ file:///Users/cbousseau/work/recipes/ci_py311/pysocks_1677906386870/work
+python-dateutil==2.9.0.post0
+pytz @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4b76c83ik/croot/pytz_1713974318928/work
+PyYAML @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a8_sdgulmz/croot/pyyaml_1698096054705/work
+referencing==0.35.1
+requests @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b3tnputioh/croot/requests_1707355573919/work
+requirements-parser==0.9.0
+rich==13.7.1
+rpds-py==0.18.1
+shellingham==1.5.4
+six==1.16.0
+smmap==5.0.1
+snowflake-cli-labs==2.4.1
+snowflake-connector-python==3.10.0
+snowflake-snowpark-python @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e5d82w_p2l/croot/snowflake-snowpark-python_1715358133537/work
+snowflake.core==0.8.0
+sortedcontainers @ file:///tmp/build/80754af9/sortedcontainers_1623949099177/work
+streamlit==1.35.0
+tenacity==8.3.0
+toml==0.10.2
+tomlkit==0.12.5
+toolz==0.12.1
+tornado==6.4.1
+typer==0.12.3
+types-setuptools==70.0.0.20240524
+typing_extensions @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_93dg13ilv4/croot/typing_extensions_1715268840722/work
+tzdata==2024.1
+urllib3 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_22oz53beet/croot/urllib3_1715635830593/work
+zipp==3.19.2

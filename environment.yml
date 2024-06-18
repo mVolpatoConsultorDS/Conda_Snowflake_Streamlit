@@ -1,0 +1,12 @@
+name: snowflake-streamlit
+channels:
+  - https://repo.anaconda.com/pkgs/snowflake
+  - nodefaults
+dependencies:
+  - python=3.11.9
+  - snowflake-snowpark-python
+  - pip
+  - openssl=3.0.13
+  - pip:
+    # Snowflake
+    - snowflake-cli-labs

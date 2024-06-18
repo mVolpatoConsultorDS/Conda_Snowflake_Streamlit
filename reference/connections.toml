@@ -1,0 +1,11 @@
+# Can override the default connection name with an environment variable as follows
+#export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
+
+[default]
+account = "xvavujr-lu12855"
+user = "MVOLPATO"
+password = "Trek9$4ge"
+role = "SYSADMIN"
+warehouse = "COMPUTE_WH"
+database = "CONTAS_BRASIL"
+schema = "TRANSACTIONS"
