@@ -15,6 +15,7 @@ st.write(
 session = create_session_object()
 
 my_dataframe = session.table("smoothies.public.fruit_options").select(col('FRUIT_NAME'))
+my_dataframe = my_dataframe.distinct()
 st.dataframe(data=my_dataframe, use_container_width=True)
 
 tipo_conta = st.selectbox(
